@@ -1,0 +1,30 @@
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\bin\Debug\net6.0\RollADice.exe
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\bin\Debug\net6.0\RollADice.deps.json
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\bin\Debug\net6.0\RollADice.runtimeconfig.json
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\bin\Debug\net6.0\RollADice.dll
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\bin\Debug\net6.0\RollADice.pdb
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\obj\Debug\net6.0\RollADice.csproj.AssemblyReference.cache
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\obj\Debug\net6.0\RollADice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\obj\Debug\net6.0\RollADice.AssemblyInfoInputs.cache
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\obj\Debug\net6.0\RollADice.AssemblyInfo.cs
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\obj\Debug\net6.0\RollADice.csproj.CoreCompileInputs.cache
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\obj\Debug\net6.0\RollADice.dll
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\obj\Debug\net6.0\refint\RollADice.dll
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\obj\Debug\net6.0\RollADice.pdb
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\obj\Debug\net6.0\RollADice.genruntimeconfig.cache
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\New folder\RollADice\RollADice\obj\Debug\net6.0\ref\RollADice.dll
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\bin\Debug\net6.0\RollADice.exe
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\bin\Debug\net6.0\RollADice.deps.json
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\bin\Debug\net6.0\RollADice.runtimeconfig.json
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\bin\Debug\net6.0\RollADice.dll
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\bin\Debug\net6.0\RollADice.pdb
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\obj\Debug\net6.0\RollADice.csproj.AssemblyReference.cache
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\obj\Debug\net6.0\RollADice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\obj\Debug\net6.0\RollADice.AssemblyInfoInputs.cache
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\obj\Debug\net6.0\RollADice.AssemblyInfo.cs
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\obj\Debug\net6.0\RollADice.csproj.CoreCompileInputs.cache
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\obj\Debug\net6.0\RollADice.dll
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\obj\Debug\net6.0\refint\RollADice.dll
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\obj\Debug\net6.0\RollADice.pdb
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\obj\Debug\net6.0\RollADice.genruntimeconfig.cache
+D:\Thiruni University\Third Year\CS\Rapid application development and visual programming technologies\Take Home Assignement 3\RollADice\RollADice\obj\Debug\net6.0\ref\RollADice.dll
